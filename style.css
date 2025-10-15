@@ -1,0 +1,24 @@
+body {
+	background-color: #111;
+	color: #fff;
+	font-family: sans-serif;
+}
+
+#reset {
+	margin-top: 100px;
+}
+
+.counter .label {
+	width: 100px;
+	display:inline-block;
+}
+
+.counter .count {
+	width: 50px;
+	display:inline-block;
+	text-align: center;
+}
+
+.counter button {
+	width: 2em;
+}

@@ -1,0 +1,13 @@
+{
+	"name":"counter",
+	"display":"minimal-ui",
+	"prefer_related_applications":false,
+	"start_url":"https://counter.granstrm.com",
+	"background_color":"#111",
+	"icons":[
+		{
+			"src":"icon.svg",
+			"sizes":"192x192 512x512"
+		}
+	]
+}
