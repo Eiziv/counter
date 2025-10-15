@@ -63,3 +63,6 @@ function addCounterSet(headerText, extraCounters) {
 
 addCounterSet("SGJ Service",["+TA", "+PKK"]);
 addCounterSet("SGJ PKK",["+TA", "+Service"]);
+addCounterSet("FGJ Service",["+TA", "+PKK"]);
+addCounterSet("FGJ PKK",["+TA", "+Service"]);
+
