@@ -6,6 +6,13 @@ body {
 
 #reset {
 	margin-top: 100px;
+	width: 4.5em;
+	height: 2em;
+	appearance: none;
+	background-color: #181A1B;
+	color: white;
+	border-style: none;
+	border-radius: 12px;
 }
 
 .counter .label {
@@ -20,5 +27,12 @@ body {
 }
 
 .counter button {
-	width: 2em;
+	width: 2.5em;
+	height: 1.5em;
+	appearance: none;
+	background-color: #181A1B;
+	color: white;
+	border-style: none;
+	border-radius: 12px;
+	margin-top: 5px;
 }
